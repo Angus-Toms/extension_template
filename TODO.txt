@@ -1,0 +1,7 @@
+1. Ensure extension is working
+2. Push changes to github
+3. Work on query scripting
+    3.1. Query for a single layer 
+    3.2. Iteratively call layers, ending if all entropies are 0
+4. Investigate FILTER syntax
+5. Preliminary testing
